@@ -45,5 +45,6 @@
       "vue-cli-service lint",
       "git add"
     ]
-  }
+  },
+  "license": "MIT"
 }
