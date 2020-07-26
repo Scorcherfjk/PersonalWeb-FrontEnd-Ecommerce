@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d06140842874c3a79e32",
-    "url": "/PersonalWeb-FrontEnd-Ecommerce/css/app.137d5d67.css"
+    "revision": "8561d91aa8c7843997f8",
+    "url": "/PersonalWeb-FrontEnd-Ecommerce/css/app.f16a258e.css"
   },
   {
     "revision": "5a627c8dddcc7dd5e949",
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PersonalWeb-FrontEnd-Ecommerce/img/logo.82b9c7a5.png"
   },
   {
-    "revision": "81f90b5e070a3f5d5df82e1b0d41d459",
+    "revision": "d47f979a03e1c9cc1e1d72d0e0bdef66",
     "url": "/PersonalWeb-FrontEnd-Ecommerce/index.html"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PersonalWeb-FrontEnd-Ecommerce/js/about.9990037d.js"
   },
   {
-    "revision": "d06140842874c3a79e32",
-    "url": "/PersonalWeb-FrontEnd-Ecommerce/js/app.72c08127.js"
+    "revision": "8561d91aa8c7843997f8",
+    "url": "/PersonalWeb-FrontEnd-Ecommerce/js/app.765a7af3.js"
   },
   {
     "revision": "5a627c8dddcc7dd5e949",
