@@ -1,4 +1,5 @@
 import Vue from 'vue';
+import VueGtm from 'vue-gtm';
 import App from './App.vue';
 import './registerServiceWorker';
 import router from './router';
@@ -7,8 +8,16 @@ import Buefy from 'buefy';
 import 'buefy/dist/buefy.css';
 
 Vue.use(Buefy);
-
 Vue.config.productionTip = false;
+
+Vue.use(VueGtm, {
+  id: 'GTM-WSV4H2Z',
+  defer: false,
+  enabled: true,
+  debug: true,
+  loadScript: true,
+  vueRouter: router
+});
 
 new Vue({
   router,
