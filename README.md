@@ -1,13 +1,25 @@
 # Hey there! 😎
 
-Este es mi proyecto personal par ael portafolio y mi aprendizaje de las herramientas utilizadas
+Este es mi proyecto personal para el portafolio y mi aprendizaje de las herramientas utilizadas
+
+![build](https://img.shields.io/travis/Scorcherfjk/PersonalWeb-FrontEnd-Ecommerce/master?style=for-the-badge)
+![languajes](https://img.shields.io/github/languages/count/Scorcherfjk/PersonalWeb-FrontEnd-Ecommerce?style=for-the-badge)
+![top languaje](https://img.shields.io/github/languages/top/Scorcherfjk/PersonalWeb-FrontEnd-Ecommerce?style=for-the-badge)
+![vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/Scorcherfjk/PersonalWeb-FrontEnd-Ecommerce?style=for-the-badge)
+
+![last commit](https://img.shields.io/github/last-commit/Scorcherfjk/PersonalWeb-FrontEnd-Ecommerce?style=for-the-badge)
+![commit activity](https://img.shields.io/github/commit-activity/w/Scorcherfjk/PersonalWeb-FrontEnd-Ecommerce?style=for-the-badge)
+
+
 
 ## Stack FrontEnd
-- [ ] Vue
+- [x] Vue
 - [ ] Vuex
-- [ ] Vue-Router
+- [x] Vue-Router
 - [ ] PWA
-- [ ] Buefy
+- [x] Buefy
+- [ ] Google Tag Manager
+- [ ] Analytics Enhanced Ecommerce
 
 
 Hasta ahora ese es el stack y lo iré actualizando mientras vaya añadiendo tecnologias.
