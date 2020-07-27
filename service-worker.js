@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PersonalWeb-FrontEnd-Ecommerce/precache-manifest.1581f5fd6ff202f1131860e7ee51f6e7.js"
+  "/PersonalWeb-FrontEnd-Ecommerce/precache-manifest.f2a50af6624f31b862df2c1d0d542e4d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "personalweb-frontend-ecommerce"});
